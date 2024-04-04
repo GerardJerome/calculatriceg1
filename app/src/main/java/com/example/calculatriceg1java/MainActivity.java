@@ -1,5 +1,6 @@
 package com.example.calculatriceg1java;
 
+import android.content.Intent;
 import android.os.Bundle;
 
 import com.google.android.material.snackbar.Snackbar;
@@ -44,7 +45,8 @@ public class MainActivity extends AppCompatActivity {
         boutonCalcul.setOnClickListener(view -> {
             Toast.makeText(this,"j'affiche un toast",Toast.LENGTH_LONG).show();
             monTextView.setText(getString(R.string.text_mon_textview));
-            //TODO MODIFIER L'ATTRIBUT TEXT DE MA TEXTVIEW
+            Intent intent = new Intent(this, ActivityCalcul.class);
+            startActivity(intent);
         });
     }
 

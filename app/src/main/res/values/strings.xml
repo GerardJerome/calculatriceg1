@@ -4,7 +4,20 @@
     <!-- Strings used for fragments for navigation -->
     <string name="first_fragment_label" translatable="false">First Fragment</string>
     <string name="second_fragment_label" translatable="false">Second Fragment</string>
-
+    <string name="bouton_1" translatable="false">1</string>
+    <string name="bouton_2" translatable="false">2</string>
+    <string name="bouton_3" translatable="false">3</string>
+    <string name="bouton_4" translatable="false">4</string>
+    <string name="bouton_5" translatable="false">5</string>
+    <string name="bouton_6" translatable="false">6</string>
+    <string name="bouton_7" translatable="false">7</string>
+    <string name="bouton_8" translatable="false">8</string>
+    <string name="bouton_9" translatable="false">9</string>
+    <string name="bouton_plus" translatable="false">+</string>
+    <string name="bouton_substract" translatable="false">-</string>
+    <string name="bouton_divide" translatable="false">/</string>
+    <string name="bouton_mulitply" translatable="false">x</string>
+    <string name="bouton_0" translatable="false">0</string>
     <string name="TEXT_HELLO_WORLD">Hello world</string>
 
     <string name="text_mon_textview" translatable="false">je clique sur mon bouton</string>
