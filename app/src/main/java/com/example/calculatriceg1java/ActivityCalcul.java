@@ -9,7 +9,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
-
+// CLEST LE PROJET GROUPE 1
 public class ActivityCalcul extends AppCompatActivity {
     private Button bouton0;
     private Button bouton1;

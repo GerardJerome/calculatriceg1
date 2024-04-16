@@ -19,6 +19,7 @@
     <string name="bouton_mulitply" translatable="false">x</string>
     <string name="bouton_0" translatable="false">0</string>
     <string name="TEXT_HELLO_WORLD">Hello world</string>
+    <string name="TEXT_BOUTON_RESET">Reset</string>
 
     <string name="text_mon_textview" translatable="false">je clique sur mon bouton</string>
 
